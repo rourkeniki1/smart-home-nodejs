@@ -1,4 +1,4 @@
-# Cloud-to-cloud integrations: Smart Home sample using Node.js
+Cloud-to-cloud integrations: Smart Home sample using Node.js
 
 This sample project contains a fully functioning example of a Smart Home provider
 cloud service designed to work with Cloud-to-cloud integrations using Node.js. This can
